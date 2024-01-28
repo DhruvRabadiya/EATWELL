@@ -1,0 +1,58 @@
+[
+    {
+        "id": "r1",
+        "name": "YP's restaurant",
+        "address": "av rode",
+        "cuisine": "Panjabi",
+        "website": "https://YPS.com",
+        "description": "all item are best and matka-biryani is one of them."
+    },
+    {
+        "id": "r2",
+        "name": "Bunkers restaurant",
+        "address": "Shahid Chok",
+        "cuisine": "Punjabi",
+        "website": "https://bunckers.com",
+        "description": "Punjabi subji and naan is mind blowing\r\n"
+    },
+    {
+        "id": "r3",
+        "name": "Navjivan restaurant",
+        "address": "Kamrej",
+        "cuisine": "all types of food",
+        "website": "http://navjivan.com",
+        "description": "kajukari is the best "
+    },
+    {
+        "id": "r4",
+        "name": "Charcole dhosa",
+        "address": "ring rode",
+        "cuisine": "South indian",
+        "website": "http://cahrcole-dhosa.com",
+        "description": "199 ultimate dhosa and value for money"
+    },
+    {
+        "name": "Somnath restaurant",
+        "address": "k korner",
+        "cuisine": "Gujrati thali",
+        "website": "http://somnath.com",
+        "description": "awesome",
+        "id": "2036b96c-c36f-4697-83c7-375761554ca8"
+    },
+    {
+        "name": "Girnar restaurant",
+        "address": "NH 8 , Surat",
+        "cuisine": "Gujrati and Punjabi",
+        "website": "http://girnar.com",
+        "description": "service is best and food is testy",
+        "id": "9bf185f4-9321-4281-9692-f9b21c2af7d8"
+    },
+    {
+        "name": "NEW YPS",
+        "address": "vv nagar",
+        "cuisine": "panjabi",
+        "website": "http://NEW_YPs.com",
+        "description": "fabulous",
+        "id": "8ad03778-db60-4dc2-a94b-ad7ceb61fc67"
+    }
+]
